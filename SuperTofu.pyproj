@@ -25,6 +25,12 @@
     <Compile Include="level.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="groups.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="support.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="timer.py">
       <SubType>Code</SubType>
     </Compile>
